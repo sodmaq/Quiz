@@ -1,0 +1,119 @@
+{
+  "questions": [
+    {
+      "question": "Who is the current President of Nigeria?",
+      "options": [
+        "Asiwaju Bola Ahmed TInubu",
+        "Olusegun Obasanjo",
+        "Goodluck Jonathan",
+        "Yemi Osinbajo"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the capital city of Nigeria?",
+      "options": ["Lagos", "Abuja", "Kano", "Port Harcourt"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which state is the largest by area in Nigeria?",
+      "options": ["Niger", "Borno", "Kogi", "Kaduna"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which year did Nigeria gain independence?",
+      "options": ["1960", "1963", "1976", "1980"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is Nigeria's official currency?",
+      "options": ["Dollar", "Cedi", "Naira", "Pound"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Who was Nigeria's first president?",
+      "options": [
+        "Nnamdi Azikiwe",
+        "Obafemi Awolowo",
+        "Ahmadu Bello",
+        "Yakubu Gowon"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which sector contributes the most to Nigeria's GDP?",
+      "options": [
+        "Agriculture",
+        "Oil and Gas",
+        "Telecommunications",
+        "Banking and Finance"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "Which river is the longest in Nigeria?",
+      "options": ["Niger River", "Benue River", "Gongola River", "Ogun River"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which Nigerian state is known as the 'Food Basket of the Nation'?",
+      "options": ["Lagos", "Kano", "Benue", "Kaduna"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Who is the current Governor of Lagos State?",
+      "options": [
+        "Akinwunmi Ambode",
+        "Babatunde Fashola",
+        "Jide Sanwo-Olu",
+        "Dapo Abiodun"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "When was the Nigerian civil war?",
+      "options": ["1967-1970", "1957-1960", "1977-1980", "1987-1990"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Which Nigerian city is known as the 'Center of Excellence'?",
+      "options": ["Abuja", "Kano", "Ibadan", "Lagos"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which Nigerian state has the highest population?",
+      "options": ["Lagos", "Kano", "Kaduna", "Oyo"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Who is the current Minister of Health in Nigeria?",
+      "options": [
+        "Osagie Ehanire",
+        "Isaac Adewole",
+        "Chukwu Onyebuchi",
+        "Emmanuel Ibe Kachikwu"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "When is Nigeria's Democracy Day celebrated?",
+      "options": ["May 29", "June 12", "October 1", "January 1"],
+      "correctOption": 1,
+      "points": 20
+    }
+  ]
+}
